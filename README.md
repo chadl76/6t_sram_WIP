@@ -25,7 +25,7 @@ The work involves schematic design, layout implementation, and transient simulat
 ## Simulation & Layout
 
 ### Xschem Schematic
-![Xschem Schematic](images/xschem_schematic.png)
+![Xschem Schematic](images/xschem_circuit.png)
 
 ### Transient Simulation
 ![Transient Simulation Plot](images/ngspice_plot.png)  
