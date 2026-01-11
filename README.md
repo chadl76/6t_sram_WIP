@@ -28,11 +28,11 @@ The work involves schematic design, layout implementation, and transient simulat
 ![Xschem Schematic](images/xschem_circuit.png)
 
 ### Transient Simulation
-![Transient Simulation Plot](images/ngspice_plot.png)  
+![Transient Simulation Plot](images/xschem_200mV_drop_plot.png)  
 *Caption:* Transient Simulation of a 6T SRAM Read Operation at 1.8V. The design demonstrates a <200ps Read Access Time with a robust >1.0V Bitline Swing, verifying strong Pull-Down drive strength and stability against Read Upset noise.
 
 ### Magic Layout
-![Magic Layout](images/magic_layout.png)
+![Magic Layout](images/magic_layout_first_attempt.png)
 
 ---
 
