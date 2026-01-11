@@ -53,12 +53,3 @@ This repository is a work in progress. Future improvements include:
 
 ---
 
-## Resume Highlights
-- Designed and simulated a custom 6T SRAM bitcell using the Sky130 Open Source PDK.
-- Optimized transistor sizing ratios (Beta Ratio) to balance Read Stability vs. Writeability, achieving non-destructive reads at 100MHz.
-- Performed transient analysis using Ngspice to verify bitline discharge rates (dV/dt) across parasitic load capacitances (500fF).
-- Achieved a bit differential of 200mV in under 0.2ns, suitable for high-frequency Sense Amplifier integration.
-
----
-
-## File Structure
